@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "context": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.",
+            "questions": [
+                {
+                    "question": "In what country is Normandy located?",
+                    "plausible_answers": [
+                        {
+                            "text": "France"
+                        }
+                    ]
+                },
+                {
+                    "question": "When were the Normans in Normandy?",
+                    "plausible_answers": [
+                        {
+                            "text": "10th and 11th centuries"
+                        }
+                    ]
+                },
+                {
+                    "question": "From which countries did the Norse originate?",
+                    "plausible_answers": [
+                        {
+                            "text": "Denmark, Iceland and Norway"
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Norse leader?",
+                    "plausible_answers": [
+                        {
+                            "text": "Rollo"
+                        }
+                    ]
+                },
+                {
+                    "question": "What century did the Normans first gain their separate identity?",
+                    "plausible_answers": [
+                        {
+                            "text": "10th century"
+                        }
+                    ]
+                },
+                {
+                    "question": "Who gave their name to Normandy in the 1000's and 1100's",
+                    "plausible_answers": [
+                        {
+                            "text": "Normans"
+                        }
+                    ]
+                },
+                {
+                    "question": "What is France a region of?",
+                    "plausible_answers": [
+                        {
+                            "text": "Normandy"
+                        }
+                    ]
+                },
+                {
+                    "question": "Who did King Charles III swear fealty to?",
+                    "plausible_answers": [
+                        {
+                            "text": "Rollo"
+                        }
+                    ]
+                },
+                {
+                    "question": "When did the Frankish identity emerge?",
+                    "plausible_answers": [
+                        {
+                            "text": "10th century"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
